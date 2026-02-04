@@ -1,7 +1,5 @@
 # Custom Gutenberg Block
 
-## Read More
-
 This plugin provides a custom Gutenberg block that allows you to create stylized anchor links for your WordPress posts. You can customize the link text and easily link to other posts on your site.
 
 ### Installation
